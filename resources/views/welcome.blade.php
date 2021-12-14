@@ -27,7 +27,7 @@
                 <div class="login__content">
                     <div class="login__form">
                         <div class="form">
-                            <h1 class="login__heading" style="margin: auto;">API Gateway</h1>
+                            <h1 class="login__heading" style="margin: auto; margin-top: 100px;">API Gateway</h1>
                             <div class="form__group spacing-large">
                                 <a target="_blank" href="/api/satelites" class="form__btn" type="submit">
                                     <span class="form__btn-text">All satelites API</span>
