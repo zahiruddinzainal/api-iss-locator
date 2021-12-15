@@ -16,7 +16,7 @@ php artisan serve
 
 Done. There you go!
 
-## Screenshot of the system
+## Here is screenshot from Postman API to test the API
 ![](http://api.zvhir.com/public/screenshot/1.png)
 List of satellite and it's id
 
