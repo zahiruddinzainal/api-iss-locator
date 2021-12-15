@@ -47,14 +47,10 @@
                             <img class="spacing" src="snippet1.png" width="100%" height="auto">
 
                             <p class="spacing-large" style="margin: auto;">
-                                ---------------------------------------------------------------------</p>
+                                -------------------------------------------------------</p>
 
-                            <div class="form__group spacing-large">
-                                <a target="_blank" href="/demo/timestamp" class="form__btn" type="submit">
-                                    <span class="form__btn-text">ISS LOCATOR<br>(by timestamp)</span>
-                                </a>
-                            </div>
-                            <p>You can get information of the satelites at given timestamp. You need to go to the
+                            <h1 class="spacing-large" style="margin: auto; margin-top: 50px; text-align: center;">ISS Locator (by timestamp)</h1>
+                            <p class="spacing-large">You can get information of the satelites at given timestamp. You need to go to the
                                 following url endpoint and pass satelite id and the timestamp: </p>
                             <p class="spacing">Example of API usage: </p>
                             <p class="spacing"><strong>GET: <a
@@ -63,15 +59,10 @@
                             <img class="spacing" src="snippet2.png" width="100%" height="auto">
 
                             <p class="spacing-large" style="margin: auto;">
-                                ---------------------------------------------------------------------</p>
+                                -------------------------------------------------------</p>
 
-                            <div class="form__group spacing-large">
-                                <a target="_blank" href="/demo/geocode" class="form__btn" type="submit">
-                                    <span class="form__btn-text" style="margin: auto;">ISS LOCATOR<br>(by
-                                        geolocation)</span>
-                                </a>
-                            </div>
-                            <p>You can also get reverse information of the satelites by passing the latitude and
+                            <h1 class="spacing-large" style="margin: auto; margin-top: 50px; text-align: center;">ISS LOCATOR<br>(by geolocation)</h1>
+                            <p class="spacing-large">You can also get reverse information of the satelites by passing the latitude and
                                 longitude: </p>
                             <p class="spacing">Example of API usage: </p>
                             <p class="spacing"><strong>GET: <a
@@ -80,16 +71,11 @@
                             <img class="spacing" src="snippet5.png" width="100%" height="auto">
 
                             <p class="spacing-large" style="margin: auto;">
-                                ---------------------------------------------------------------------</p>
+                                -------------------------------------------------------</p>
 
 
-                            <div class="form__group spacing-large">
-                                <a target="_blank" href="/demo/before" class="form__btn" type="submit">
-                                    <span class="form__btn-text" style="margin: auto;">ISS LOCATOR<br>(before every 10
-                                        minutes)</span>
-                                </a>
-                            </div>
-                            <p>You can also get information of the satelites every 10 minutes before a given timestamp.
+                            <h1 class="spacing-large" style="margin: auto; margin-top: 50px; text-align: center;">ISS LOCATOR<br>(before every 10 minutes)</h1>
+                            <p class="spacing-large">You can also get information of the satelites every 10 minutes before a given timestamp.
                                 You need to go to the following url endpoint and pass satelite id and the timestamp:
                             </p>
                             <p class="spacing">Example of API usage: </p>
@@ -98,15 +84,10 @@
                             </p>
                             <img class="spacing" src="snippet3.png" width="100%" height="auto">
 
-                            <p class="spacing-large" style="margin: auto;">---------------------------------------------------------------------</p>
+                            <p class="spacing-large" style="margin: auto;">-------------------------------------------------------</p>
 
-                            <div class="form__group spacing-large">
-                                <a target="_blank" href="/demo/after" class="form__btn" type="submit">
-                                    <span class="form__btn-text" style="margin: auto;">ISS LOCATOR<br>(after every 10
-                                        minutes)</span>
-                                </a>
-                            </div>
-                            <p>You can also get information of the satelites every 10 minutes after a given timestamp.
+                            <h1 class="spacing-large" style="margin: auto; margin-top: 50px; text-align: center;">ISS LOCATOR<br>(before every 10 minutes)</h1>
+                            <p class="spacing-large">You can also get information of the satelites every 10 minutes after a given timestamp.
                                 You need to go to the following url endpoint and pass satelite id and the timestamp:
                             </p>
                             <p class="spacing">Example of API usage: </p>
@@ -115,7 +96,7 @@
                             </p>
                             <img class="spacing" src="snippet4.png" width="100%" height="auto">
 
-                            <p class="spacing-large" style="margin: auto;">---------------------------------------------------------------------</p>
+                            <p class="spacing-large" style="margin: auto;">-------------------------------------------------------</p>
 
                             <div class="form__group spacing-large">
                                 <a target="_blank" href="https://interview.zvhir.com" class="form__btn"
